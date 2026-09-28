@@ -5,19 +5,9 @@
 Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Start Here
 
@@ -49,14 +39,16 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 ## What I'm Doing
 
-- **Finishing my degree**: final year, with courses in Cyber-Physical Security, Intelligent IoT and Image Processing
-- **Building with agents**: Antigravity/Gemini is my daily pair programmer, and I build the tools around it that I'm missing
-- **Probably listening to music**: I absolutely love listening to music, so there's a 99% chance I have my headphones on right now
+- **Wrapping up my degree:** I am in my final year, completing coursework in Cyber-Physical Security, Intelligent IoT, and Image Processing.
+- **Building with agents:** Antigravity and Gemini act as my daily pair programmers. I also build custom tools around them to streamline my workflow.
+- **Listening to music:** I am a huge music enthusiast, so there's a 99% chance I have my headphones on right now.
 
 ## Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.benassi30@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmrma)
+[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/jjgbpwwy92xaa8q5er089as5l?si=6c327f5eb69644f7)
+[![Stats.fm](https://img.shields.io/badge/-Stats.fm-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://stats.fm/itsmrma)
 
 ---
 
