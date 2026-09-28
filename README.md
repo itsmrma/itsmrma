@@ -43,6 +43,7 @@ My most used languages are:<br>
 - **Wrapping up my degree:** I am in my final year, completing coursework in Cyber-Physical Security, Intelligent IoT, and Image Processing.
 - **Building with agents:** Antigravity and Gemini act as my daily pair programmers. I build custom tools with them to streamline my workflow.
 - **Listening to music:** I am a huge music enthusiast, so there's a 99% chance I have my headphones on right now.
+- **Racing:** I am either catching up on the latest motorsport race or playing some racing games.
 
 ## Connect
 
