@@ -51,6 +51,7 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 - **Finishing my degree**: final year, with courses in Cyber-Physical Security, Intelligent IoT and Image Processing
 - **Building with agents**: Antigravity/Gemini is my daily pair programmer, and I build the tools around it that I'm missing
+- **Probably listening to music**: I absolutely love listening to music, so there's a 99% chance I have my headphones on right now
 
 ## Connect
 
