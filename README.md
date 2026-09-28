@@ -3,7 +3,6 @@
 📍 **Italy** | 🛠️ **Full-cycle builder** | 🥇 **1× hackathon winner**
 
 Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
-I take products from the first conversation with the user to production.
 
 > 🔎 **Open to software engineering internships.** [Get in touch](mailto:m.benassi30@gmail.com)
 
@@ -14,7 +13,6 @@ I take products from the first conversation with the user to production.
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity-000000?style=flat-square)
 
 ## Start Here
 
@@ -56,4 +54,4 @@ I take products from the first conversation with the user to production.
 - 🥇 **1st place**, ACQUAM 2026 · Hack4Water Alert (Sep 2026), with [Lorenzo Cavallini](https://github.com/cavallinilorenzo) and [Simone Trentin](https://github.com/TrentoElProgrammatores)
 - 🥈 **2nd place**, Hackathon SCIoTeM 2026
 - 🥈 **2nd place**, [SCIoTeM 2025](https://ltomantova.it/2025/02/25/sciotem-2025-smart-city-and-mobility-internet-of-things-digital-twins-and-metaverso/) · Smart City & Mobility, IoT, Digital Twins (Feb 2025): P7M AI Summarizer
-- 🎓 All first- and second-year exams passed on schedule · 100/100 technical high school diploma (computer science)
+- 🎓 All first and second-year exams passed on schedule · 100/100 technical high school diploma (computer science)
