@@ -35,7 +35,7 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 - 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
 - 🎵 **[Music Library](https://github.com/itsmrma/uni-musiclib-project)**: comprehensive web platform to manage music collections. Integrates external APIs (MusicBrainz, TheAudioDB) for metadata, album covers, and artist biographies. Features advanced filtering, user ratings, CSV imports, and an interactive UI.<br>**Stack:** `Python` · `Django` · `JavaScript` · `HTML` · `CSS`
 
-### 💼 Client Work
+### 🎒 High School Projects
 
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
 
