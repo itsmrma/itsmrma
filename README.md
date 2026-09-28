@@ -10,8 +10,10 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ## Start Here
@@ -24,17 +26,13 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 ### 🏆 Hackathon Builds
 
-- 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)**: built in 3 days for the Consorzio di bonifica Garda Chiese (33 municipalities, 76,645 ha). Citizens report through a no-login web app with GPS, photos and **voice reports parsed by an LLM**. **PostGIS geofencing** rejects reports outside the consortium's network before they're sent. Operators triage by danger level on a live map with push notifications.
-  <sub>Django REST · PostgreSQL/PostGIS · React · TypeScript · Leaflet · Gemini · Docker</sub>
-- 💡 **[Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)** (🥈 SCIoTeM 2026): moves public-lighting maintenance from reactive to predictive with **survival analysis + XGBoost**, explainable risk scores, a GIS map and ticketing.
-  <sub>Django · scikit-learn · XGBoost · Pandas · Folium</sub>
-- 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): strips the signature envelope from digitally signed PKCS#7 (`.p7m`) documents and produces keyword-driven AI summaries with page references.
-  <sub>Django · asn1crypto · Gemini</sub>
+- 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)**: built in 3 days for the Consorzio di bonifica Garda Chiese (33 municipalities, 76,645 ha). Citizens report through a no-login web app with GPS, photos and **voice reports parsed by an LLM**. **PostGIS geofencing** rejects reports outside the consortium's network before they're sent. Operators triage by danger level on a live map with push notifications.<br>**Stack:** `Django REST` · `PostgreSQL/PostGIS` · `React` · `TypeScript` · `Leaflet` · `Gemini` · `Docker`
+- 💡 **[Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)** (🥈 SCIoTeM 2026): moves public-lighting maintenance from reactive to predictive with **survival analysis + XGBoost**, explainable risk scores, a GIS map and ticketing.<br>**Stack:** `Django` · `scikit-learn` · `XGBoost` · `Pandas` · `Folium`
+- 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): strips the signature envelope from digitally signed PKCS#7 (`.p7m`) documents and produces keyword-driven AI summaries with page references.<br>**Stack:** `Django` · `asn1crypto` · `Gemini`
 
 ### 💼 Client Work
 
-- 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.
-  <sub>PHP · JavaScript · HTML · CSS</sub>
+- 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
 
 ## What I'm Doing
 
