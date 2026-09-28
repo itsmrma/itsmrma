@@ -30,6 +30,11 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 - 💡 **[Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)** (🥈 SCIoTeM 2026): moves public-lighting maintenance from reactive to predictive with **survival analysis + XGBoost**, explainable risk scores, a GIS map and ticketing.<br>**Stack:** `Django` · `scikit-learn` · `XGBoost` · `Pandas` · `Folium`
 - 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): strips the signature envelope from digitally signed PKCS#7 (`.p7m`) documents and produces keyword-driven AI summaries with page references.<br>**Stack:** `Django` · `asn1crypto` · `Gemini`
 
+### 🎓 University Projects
+
+- 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
+- 🎵 **[Music Library](https://github.com/itsmrma/uni-musiclib-project)**: comprehensive web platform to manage music collections. Integrates external APIs (MusicBrainz, TheAudioDB) for metadata, album covers, and artist biographies. Features advanced filtering, user ratings, CSV imports, and an interactive UI.<br>**Stack:** `Python` · `Django` · `JavaScript` · `HTML` · `CSS`
+
 ### 💼 Client Work
 
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
