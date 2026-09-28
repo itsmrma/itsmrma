@@ -37,6 +37,10 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
 
+### 🛠️ Personal Projects
+
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: powerful, modular batch-processing tool to manipulate, merge, and synchronize audio and subtitle tracks across multiple MKV video files. Features smart batching, waveform audio sync via FFT, automatic subtitle alignment, and an interactive UI.<br>**Stack:** `Python` · `SciPy` · `FFmpeg` · `MKVToolNix`
+
 ## What I'm Doing
 
 - **Finishing my degree**: final year, with courses in Cyber-Physical Security, Intelligent IoT and Image Processing
