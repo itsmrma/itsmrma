@@ -44,7 +44,7 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 ### 🛠️ Personal Projects
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: powerful, modular batch-processing tool to manipulate, merge, and synchronize audio and subtitle tracks across multiple MKV video files. Features smart batching, waveform audio sync via FFT, automatic subtitle alignment, and an interactive UI.<br>**Stack:** `Python` · `SciPy` · `FFmpeg` · `MKVToolNix`
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: powerful, modular batch-processing tool to manipulate, merge, and synchronize audio and subtitle tracks across multiple MKV video files. Features smart batching, waveform audio sync via FFT, automatic subtitle alignment, and a modern PyQt6 UI.<br>**Stack:** `Python` · `PyQt6` · `SciPy` · `FFmpeg` · `MKVToolNix` · `uv`
 - 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating the ListenBrainz API.<br>**Stack:** `JavaScript` · `TailwindCSS` · `Material Design` · `Chart.js` · `JSZip`
 
 ## What I'm Doing
