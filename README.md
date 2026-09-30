@@ -50,7 +50,6 @@ My most used languages are:<br>
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.benassi30@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmrma)
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/jjgbpwwy92xaa8q5er089as5l?si=6c327f5eb69644f7)
-[![Stats.fm](https://img.shields.io/badge/-Stats.fm-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://stats.fm/itsmrma)
 
 ---
 
