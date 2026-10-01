@@ -32,6 +32,7 @@ My most used languages are:<br>
 ### 🎒 High School Projects
 
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
+- 🧩 **[MazeGame](https://github.com/itsmrma/itis-mazegame)**: maze game inspired by Harry Potter and the Goblet of Fire, built during my fourth year of high school. Explore with limited visibility, collect a randomly placed key, and find the exit.<br>**Stack:** `Java` · `JavaFX` · `Maven`
 
 ### 🛠️ Personal Projects
 
