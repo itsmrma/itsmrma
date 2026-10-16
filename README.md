@@ -6,12 +6,14 @@ Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/
 
 My most used languages are:<br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Start Here
 
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.0<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
 - 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): AI summaries with page references for digitally signed PKCS#7 documents
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events
@@ -36,7 +38,8 @@ My most used languages are:<br>
 
 ### 🛠️ Personal Projects
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: powerful, modular batch-processing tool to manipulate, merge, and synchronize audio and subtitle tracks across multiple MKV video files. Features smart batching, waveform audio sync via FFT, automatic subtitle alignment, and a modern React/PyWebView UI with Framer Motion animations.<br>**Stack:** `Python` · `React` · `PyWebView` · `SciPy` · `FFmpeg` · `MKVToolNix` · `uv`
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
+- 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
 
 ## What I'm Doing
 
