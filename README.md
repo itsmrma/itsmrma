@@ -13,7 +13,7 @@ My most used languages are:<br>
 
 ## Start Here
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.0<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.3.1<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
 - 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): AI summaries with page references for digitally signed PKCS#7 documents
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events
@@ -38,7 +38,7 @@ My most used languages are:<br>
 
 ### 🛠️ Personal Projects
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
 - 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
 
 ## What I'm Doing
