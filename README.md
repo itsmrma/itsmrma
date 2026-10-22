@@ -13,7 +13,7 @@ My most used languages are:<br>
 
 ## Start Here
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.3.1<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.5.1<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
 - 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): AI summaries with page references for digitally signed PKCS#7 documents
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events
