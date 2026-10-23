@@ -26,6 +26,12 @@ My most used languages are:<br>
 - 💡 **[Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)** (🥈 SCIoTeM 2026): moves public-lighting maintenance from reactive to predictive with **survival analysis + XGBoost**, explainable risk scores, a GIS map and ticketing.<br>**Stack:** `Django` · `scikit-learn` · `XGBoost` · `Pandas` · `Folium`
 - 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): strips the signature envelope from digitally signed PKCS#7 (`.p7m`) documents and produces keyword-driven AI summaries with page references.<br>**Stack:** `Django` · `asn1crypto` · `Gemini`
 
+### 🛠️ Personal Projects
+
+- AGGIUNGERE QUI
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
+- 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
+
 ### 🎓 University Projects
 
 - 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
@@ -36,10 +42,6 @@ My most used languages are:<br>
 - 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
 - 🧩 **[MazeGame](https://github.com/itsmrma/itis-mazegame)**: maze game inspired by Harry Potter and the Goblet of Fire, built during my fourth year of high school. Explore with limited visibility, collect a randomly placed key, and find the exit.<br>**Stack:** `Java` · `JavaFX` · `Maven`
 
-### 🛠️ Personal Projects
-
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
-- 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
 
 ## What I'm Doing
 
