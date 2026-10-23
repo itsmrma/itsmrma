@@ -28,7 +28,7 @@ My most used languages are:<br>
 
 ### 🛠️ Personal Projects
 
-- AGGIUNGERE QUI
+- 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive with owner authentication, background collection, extended-history imports, rankings, activity charts, and searchable history. Run locally or with Docker using a persistent data directory.<br>**Stack:** `Rust` · `React` · `TypeScript` · `SQLite` · `Docker` · `Spotify API`
 - 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
 - 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
 
