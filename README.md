@@ -1,6 +1,8 @@
 # Hi, I'm Matteo 👋
 
-📍 **Italy** | 🛠️ **Full-cycle builder** | 🥇 **1× hackathon winner**
+📍 **Italy** | 🥇 **1× hackathon winner**
+
+[![CPU-Z Validator](https://valid.cpuid.com/cache/banner/hw2uyaqh.png)](https://valid.cpuid.com/hw2uyaqh)
 
 Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
 
