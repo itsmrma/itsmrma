@@ -22,6 +22,10 @@ My most used languages are:<br>
 
 ## Projects
 
+### 🤖 Agentic Editor
+
+- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering that lets me run coding agents from one chat, switching between installed provider CLIs with Git and GitHub integrations.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
+
 ### 🏆 Hackathon Builds
 
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)**: built in 3 days for the Consorzio di bonifica Garda Chiese (33 municipalities, 76,645 ha). Citizens report through a no-login web app with GPS, photos and **voice reports parsed by an LLM**. **PostGIS geofencing** rejects reports outside the consortium's network before they're sent. Operators triage by danger level on a live map with push notifications.<br>**Stack:** `Django REST` · `PostgreSQL/PostGIS` · `React` · `TypeScript` · `Leaflet` · `Gemini` · `Docker`
@@ -30,6 +34,8 @@ My most used languages are:<br>
 
 ### 🛠️ Personal Projects
 
+- 🌀 **[Viessmann Dashboard](https://github.com/itsmrma/viesmann-dashboard-hass)**: Home Assistant add-on with an Ingress dashboard that combines ViCare entities and direct Viessmann 2701 polling into room and system views with multilingual themes.<br>**Stack:** `Python` · `Home Assistant Supervisor` · `JavaScript`
+- 🎮 **[AMD Fan Control](https://github.com/itsmrma/amd-fan-control)**: Windows desktop utility for AMD GPU fan curves with a responsive curve editor, telemetry, Zero RPM policy controls, and safe restore flows.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
 - 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive with owner authentication, background collection, extended-history imports, rankings, activity charts, and searchable history. Run locally or with Docker using a persistent data directory.<br>**Stack:** `Rust` · `React` · `TypeScript` · `SQLite` · `Docker` · `Spotify API`
 - 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
 - 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
