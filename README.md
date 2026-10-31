@@ -17,14 +17,14 @@ My most used languages are:<br>
 
 - 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.5.3<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
-- 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): AI summaries with page references for digitally signed PKCS#7 documents
-- 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events
+- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering, co-developed with [Lorenzo Cavallini](https://github.com/cavallinilorenzo)
+- 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive
 
 ## Projects
 
 ### 🤖 Agentic Editor
 
-- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering that lets me run coding agents from one chat, switching between installed provider CLIs with Git and GitHub integrations.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
+- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering, co-developed with [Lorenzo Cavallini](https://github.com/cavallinilorenzo), that lets me run coding agents from one chat, switching between installed provider CLIs with Git and GitHub integrations.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
 
 ### 🏆 Hackathon Builds
 
