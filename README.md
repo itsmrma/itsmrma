@@ -15,7 +15,7 @@ My most used languages are:<br>
 
 ## Start Here
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.5.3<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
+- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.5.4<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
 - 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
 - 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering, co-developed with [Lorenzo Cavallini](https://github.com/cavallinilorenzo)
 - 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive
