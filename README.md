@@ -1,74 +1,92 @@
-# Hi, I'm Matteo 👋
+<!--
+Note: never start a line with an auto-sync marker, or GitHub renders that line as raw HTML.
 
-📍 **Italy** | 🥇 **1× hackathon winner**
+Open to (uncomment and edit when needed):
+> **Open to:** internships · thesis projects · Rust/Tauri desktop tooling
+-->
 
-[![CPU-Z Validator](https://valid.cpuid.com/cache/banner/hw2uyaqh.png)](https://valid.cpuid.com/hw2uyaqh)
+<h2 align="center">Matteo Benassi</h2>
 
-Final-year **Computer Engineering** student at [UniMoRe](https://www.unimore.it/) (graduating 2027).
+<p align="center">
+  Computer Engineering student at <a href="https://www.unimore.it/">UniMoRe</a>, graduating 2027.<br />
+  I build <b>Rust + Tauri</b> desktop apps, self-hosted tools, and hackathon projects that make the podium.
+</p>
 
-My most used languages are:<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <a href="https://benassimatteo.dev"><img src="https://img.shields.io/badge/benassimatteo.dev-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:info@benassimatteo.dev"><img src="https://img.shields.io/badge/%E2%9C%89_Email-D14836?style=flat-square" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Italy-009246?style=flat-square" alt="Italy" />
+  <img src="https://img.shields.io/badge/%F0%9F%A5%87_Hack4Water_2026-B8860B?style=flat-square" alt="Hack4Water 2026 winner" />
+</p>
 
-## Start Here
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,python,django,postgres,docker&perline=8" alt="Rust, Tauri, TypeScript, React, Python, Django, PostgreSQL, Docker" />
+</p>
 
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)** (<!-- auto-sync:syncforge-version -->v3.5.4<!-- /auto-sync:syncforge-version -->): cross-platform desktop application (Rust + Tauri v2) for MKV audio & subtitle synchronization and batch processing
-- 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)** (🥇 Hack4Water 2026): geolocated reporting platform for a public water consortium
-- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering, co-developed with [Lorenzo Cavallini](https://github.com/cavallinilorenzo)
-- 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive
+## Selected work
 
-## Projects
+### 🥇 Garda Chiese Alert
 
-### 🤖 Agentic Editor
+<sub>1st place · ACQUAM 2026 · Hack4Water — with <a href="https://github.com/cavallinilorenzo">Lorenzo Cavallini</a> and <a href="https://github.com/TrentoElProgrammatores">Simone Trentin</a></sub>
 
-- 🧪 **[Oxide](https://github.com/cavallinilorenzo/oxide)**: desktop app for agentic engineering, co-developed with [Lorenzo Cavallini](https://github.com/cavallinilorenzo), that lets me run coding agents from one chat, switching between installed provider CLIs with Git and GitHub integrations.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
+- 🎯 **Problem:** the Consorzio di bonifica Garda Chiese (33 municipalities, 76,645 ha) needed citizens to report issues on its water network, and operators to know which ones are urgent.
+- 🔨 **Built in 3 days:** a no-login web app with GPS, photos and **voice reports parsed by an LLM**. **PostGIS geofencing** rejects reports outside the network before they're sent. Operators triage by danger level on a live map with push notifications.
+- 🧰 **Stack:** `Django REST` · `PostgreSQL/PostGIS` · `React` · `TypeScript` · `Leaflet` · `Gemini` · `Docker`
 
-### 🏆 Hackathon Builds
+[View repository →](https://github.com/cavallinilorenzo/alert-app-garda-chiese)
 
-- 🌊 **[Garda Chiese Alert](https://github.com/cavallinilorenzo/alert-app-garda-chiese)**: built in 3 days for the Consorzio di bonifica Garda Chiese (33 municipalities, 76,645 ha). Citizens report through a no-login web app with GPS, photos and **voice reports parsed by an LLM**. **PostGIS geofencing** rejects reports outside the consortium's network before they're sent. Operators triage by danger level on a live map with push notifications.<br>**Stack:** `Django REST` · `PostgreSQL/PostGIS` · `React` · `TypeScript` · `Leaflet` · `Gemini` · `Docker`
-- 💡 **[Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance)** (🥈 SCIoTeM 2026): moves public-lighting maintenance from reactive to predictive with **survival analysis + XGBoost**, explainable risk scores, a GIS map and ticketing.<br>**Stack:** `Django` · `scikit-learn` · `XGBoost` · `Pandas` · `Folium`
-- 📄 **[P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer)** (🥈 SCIoTeM 2025): strips the signature envelope from digitally signed PKCS#7 (`.p7m`) documents and produces keyword-driven AI summaries with page references.<br>**Stack:** `Django` · `asn1crypto` · `Gemini`
+### 🎬 SyncForge <sub><!-- auto-sync:syncforge-version -->v3.5.4<!-- /auto-sync:syncforge-version --></sub>
 
-### 🛠️ Personal Projects
+<sub>Personal project · cross-platform desktop app</sub>
 
-- 🌀 **[Viessmann Dashboard](https://github.com/itsmrma/viesmann-dashboard-hass)**: Home Assistant add-on with an Ingress dashboard that combines ViCare entities and direct Viessmann 2701 polling into room and system views with multilingual themes.<br>**Stack:** `Python` · `Home Assistant Supervisor` · `JavaScript`
-- 🎮 **[AMD Fan Control](https://github.com/itsmrma/amd-fan-control)**: Windows desktop utility for AMD GPU fan curves with a responsive curve editor, telemetry, Zero RPM policy controls, and safe restore flows.<br>**Stack:** `Rust` · `Tauri` · `TypeScript`
-- 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive with owner authentication, background collection, extended-history imports, rankings, activity charts, and searchable history. Run locally or with Docker using a persistent data directory.<br>**Stack:** `Rust` · `React` · `TypeScript` · `SQLite` · `Docker` · `Spotify API`
-- 🎬 **[SyncForge](https://github.com/itsmrma/SyncForge)**: desktop application for single-file and batch synchronization, track merging, and MKV metadata editing. Powered by a native Rust backend and Tauri v2, it features 6 modular workflows including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment (`ffsubsync`), lossless track remuxing, live terminal logs, and standalone cross-platform releases.<br><!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
-- 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: completely private, client-side web application to explore Spotify extended streaming history. Features interactive charts, listening streaks calculation, and fills recent history gaps by dynamically integrating ListenBrainz, Last.fm, and Maloja APIs.<br><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack -->
+- 🎯 **Problem:** syncing audio tracks and subtitles to a different release of the same video by hand is slow and error-prone.
+- 🔨 **Built:** 6 modular workflows, including pure-Rust FFT waveform cross-correlation (WaveSync), external & embedded subtitle alignment, lossless remuxing and MKV metadata editing, with batch processing, live logs and standalone releases.
+- 🧰 <!-- auto-sync:syncforge-stack -->**Stack:** `JavaScript` · `Rust` · `Tauri v2` · `React` · `MUI` · `FFmpeg` · `MKVToolNix` · `ffsubsync`<!-- /auto-sync:syncforge-stack -->
 
-### 🎓 University Projects
+[View repository →](https://github.com/itsmrma/SyncForge)
 
-- 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for an IoT smart irrigation system based on the STM32 B-L475E-IOT01A. Features a built-in web server for configuration, fetches Open-Meteo forecasts to save water if rain is expected, and pilots electro-valves via relays.<br>**Stack:** `C` · `Assembly` · `HTML` · `CSS`
-- 🎵 **[Music Library](https://github.com/itsmrma/uni-musiclib-project)**: comprehensive web platform to manage music collections. Integrates external APIs (MusicBrainz, TheAudioDB) for metadata, album covers, and artist biographies. Features advanced filtering, user ratings, CSV imports, and an interactive UI.<br>**Stack:** `Python` · `Django` · `JavaScript` · `HTML` · `CSS`
+### 🧪 Oxide
 
-### 🎒 High School Projects
+<sub>Desktop app for agentic engineering — co-developed with <a href="https://github.com/cavallinilorenzo">Lorenzo Cavallini</a></sub>
 
-- 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: geospatial explorer for Lombardy's cultural events. Users can search and filter festivals by location and date, view them on an interactive map, and download PDF flyers. Includes user accounts for favorites and comments.<br>**Stack:** `PHP` · `JavaScript` · `HTML` · `CSS`
-- 🧩 **[MazeGame](https://github.com/itsmrma/itis-mazegame)**: maze game inspired by Harry Potter and the Goblet of Fire, built during my fourth year of high school. Explore with limited visibility, collect a randomly placed key, and find the exit.<br>**Stack:** `Java` · `JavaFX` · `Maven`
+- 🎯 **Problem:** every coding agent lives in its own CLI, with its own workflow.
+- 🔨 **Built:** one chat to run coding agents, switching between installed provider CLIs, with Git and GitHub integrations.
+- 🧰 **Stack:** `Rust` · `Tauri` · `TypeScript`
 
+[View repository →](https://github.com/cavallinilorenzo/oxide)
 
-## What I'm Doing
+## Also on the podium
 
-- **Wrapping up my degree:** I am in my final year, completing coursework in Cyber-Physical Security, Intelligent IoT, and Image Processing.
-- **Building with agents:** Antigravity and Gemini act as my daily pair programmers. I build custom tools with them to streamline my workflow.
-- **Listening to music:** I am a huge music enthusiast, so there's a 99% chance I have my headphones on right now.
-- **Racing:** I am either catching up on the latest motorsport race or playing some racing games.
+- 🥈 **SCIoTeM 2026** · [Smart Beam](https://github.com/cavallinilorenzo/street-lighting-predictive-maintenance): moves street-lighting maintenance from reactive to predictive with survival analysis + XGBoost and explainable risk scores.
+- 🥈 **[SCIoTeM 2025](https://ltomantova.it/2025/02/25/sciotem-2025-smart-city-and-mobility-internet-of-things-digital-twins-and-metaverso/)** · [P7M AI Summarizer](https://github.com/itsmrma/hackathon-p7m-ai-summarizer): strips the PKCS#7 envelope from signed `.p7m` documents and produces AI summaries with page references.
 
-## Connect
+## More projects
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.benassi30@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itsmrma)
-[![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/jjgbpwwy92xaa8q5er089as5l?si=6c327f5eb69644f7)
+- 🎧 **[scrobbl.rs](https://github.com/itsmrma/scrobbl-rs)**: self-hosted, single-owner Spotify listening archive with history imports, rankings and charts.<br><sub>**Stack:** `Rust` · `React` · `TypeScript` · `SQLite` · `Docker`</sub>
+- 🎮 **[AMD Fan Control](https://github.com/itsmrma/amd-fan-control)**: AMD GPU fan curves on Windows with telemetry, Zero RPM controls and safe restore.<br><sub>**Stack:** `Rust` · `Tauri` · `TypeScript`</sub>
+- 🌀 **[Viessmann Dashboard](https://github.com/itsmrma/viesmann-dashboard-hass)**: Home Assistant add-on combining ViCare entities and direct Viessmann 2701 polling.<br><sub>**Stack:** `Python` · `JavaScript`</sub>
+- 🎵 **[Spotify History Analyzer](https://github.com/itsmrma/spotify-history-analyzer)**: private, client-side explorer for Spotify extended history.<br><sub><!-- auto-sync:spotify-stack -->**Stack:** `JavaScript` · `Material Design 3` · `Chart.js` · `JSZip` · `Playwright`<!-- /auto-sync:spotify-stack --></sub>
+
+<details>
+<summary><b>University & high school projects</b></summary>
+<br />
+
+- 🌿 **[STM32 Smart Garden](https://github.com/itsmrma/STM32CentralinaGettiniWiFI)**: C firmware for weather-aware IoT irrigation on the STM32 B-L475E-IOT01A, with a built-in web server.
+- 🎵 **[Music Library](https://github.com/itsmrma/uni-musiclib-project)**: Django platform for music collections with MusicBrainz and TheAudioDB metadata.
+- 🗺️ **[Sagre in Lombardia](https://github.com/itsmrma/benpie)**: map-based explorer for Lombardy's local festivals, in PHP.
+- 🧩 **[MazeGame](https://github.com/itsmrma/itis-mazegame)**: JavaFX maze game with limited visibility, built in high school.
+
+</details>
+
+## Education
+
+- **B.Sc. Computer Engineering** · UniMoRe, Dipartimento Enzo Ferrari (2027)<br><sub>Now taking: Cyber-Physical Security, Intelligent IoT, Image Processing · all first and second-year exams passed on schedule</sub>
+- **Technical high school diploma in computer science** · 100/100
 
 ---
 
-### Recognition
-
-- 🥇 **1st place**, ACQUAM 2026 · Hack4Water Alert (Sep 2026), with [Lorenzo Cavallini](https://github.com/cavallinilorenzo) and [Simone Trentin](https://github.com/TrentoElProgrammatores)
-- 🥈 **2nd place**, Hackathon SCIoTeM 2026
-- 🥈 **2nd place**, [SCIoTeM 2025](https://ltomantova.it/2025/02/25/sciotem-2025-smart-city-and-mobility-internet-of-things-digital-twins-and-metaverso/) · Smart City & Mobility, IoT, Digital Twins (Feb 2025): P7M AI Summarizer
-- 🎓 All first and second-year exams passed on schedule · 100/100 technical high school diploma (computer science)
+<p align="center">
+  <sub>Off the keyboard: music (always), motorsport and racing games.</sub>
+  <br /><br />
+  <a href="https://valid.cpuid.com/hw2uyaqh"><img src="https://valid.cpuid.com/cache/banner/hw2uyaqh.png" alt="CPU-Z Validator" /></a>
+</p>
