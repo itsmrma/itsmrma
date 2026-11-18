@@ -91,7 +91,7 @@ Open to (uncomment and edit when needed):
 
 ## Education
 
-- **B.Sc. Computer Engineering** · UniMoRe, Dipartimento Enzo Ferrari (2027)<br><sub>Now taking: Cyber-Physical Security, Intelligent IoT, Image Processing · all first and second-year exams passed on schedule</sub>
+- **B.Sc. Computer Engineering** · UniMoRe, Dipartimento di Ingegneria Enzo Ferrari (2027)<br><sub>Now taking: Cyber-Physical Security, Intelligent IoT · all first and second-year exams passed on schedule</sub>
 - **Technical high school diploma in computer science** · 100/100
 
 ---
