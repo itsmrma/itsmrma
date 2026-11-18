@@ -5,7 +5,7 @@ Open to (uncomment and edit when needed):
 > **Open to:** internships · thesis projects · Rust/Tauri desktop tooling
 -->
 
-<h2 align="center">Matteo Benassi</h2>
+<h1 align="center">Matteo Benassi</h1>
 
 <p align="center">
   Computer Engineering student at <a href="https://www.unimore.it/">UniMoRe</a>, graduating 2027.<br />
@@ -20,7 +20,7 @@ Open to (uncomment and edit when needed):
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,python,django,postgres,docker&perline=8" alt="Rust, Tauri, TypeScript, React, Python, Django, PostgreSQL, Docker" />
+  <img src="https://skillicons.dev/icons?i=rust,tauri,ts,react,python,django,postgres,docker&perline=8" height="28" alt="Rust, Tauri, TypeScript, React, Python, Django, PostgreSQL, Docker" />
 </p>
 
 ## Selected work
